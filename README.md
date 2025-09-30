@@ -1,5 +1,6 @@
 # Administración_BBDD_P2
-<img width="1113" height="441" alt="Practica 2 drawio" src="https://github.com/user-attachments/assets/6b4111c1-7a93-43a2-9198-f42793283c11" />
+<img width="1123" height="436" alt="Practica 2 drawio" src="https://github.com/user-attachments/assets/71bf7ad5-84ca-4283-9cc4-aa2ef4fbeb99" />
+
 
 
 ## Explicación de las entidades
