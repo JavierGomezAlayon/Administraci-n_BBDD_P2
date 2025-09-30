@@ -1,5 +1,6 @@
 # Administración_BBDD_P2
 <img width="1123" height="436" alt="Practica 2 drawio" src="https://github.com/user-attachments/assets/5137ad97-4def-42d2-9118-56157d8321d9" />
+
 ## Explicación de las entidades
 En este apartado se recoge una breve descripción de las entidades definidas y además el rango y ejemplos de sus atributos
 Los atributos tendrá entre parentesis el tipo de variable que es y después se le indica una breve descripción y un ejemplo, todo separado por el caracter ":".
