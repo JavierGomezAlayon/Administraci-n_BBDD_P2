@@ -4,6 +4,7 @@
 
 ## Explicación de las entidades
 En este apartado se recoge una breve descripción de las entidades definidas y además el rango y ejemplos de sus atributos
+Los atributos tendrá entre parentesis el tipo de variable que es y después se le indica una breve descripción y un ejemplo, todo separado por el caracter ":".
 - **Cliente**: Persona que haya realizado al menos una compra.
   - Código (secuencial): Atributo identificativo que consiste en un código serial. : 1234
   - Crédito (bool): Indica si el cliente es con crédito o no. : true
